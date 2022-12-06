@@ -1,0 +1,4 @@
+Sequence_header	sequence
+ABC123	ATCGTACGATCGATCGATCGCTAGACGTATCG
+DEF456	actgatcgacgatcgatcgatcacgact
+HIJ789	ACTGAC-ACTGT--ACTGTA----CATGTG
